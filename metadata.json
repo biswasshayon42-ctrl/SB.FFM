@@ -1,0 +1,6 @@
+{
+  "name": "SHAYON FIRE MAX",
+  "description": "Original 3D online multiplayer battle royale game with 8 game modes, 5 tactical arenas, weapon evolution skins, social squad lobbies, and a developer admin console.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

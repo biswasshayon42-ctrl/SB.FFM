@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "SHAYON FIRE MAX — Ultimate Battle Royale",
+  "short_name": "SHAYON MAX",
+  "description": "Original 3D online multiplayer battle royale game with 8 game modes, 5 arenas, and weapon evolution skins.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#090c12",
+  "theme_color": "#0b0e14",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
